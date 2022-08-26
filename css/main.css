@@ -5,14 +5,14 @@ a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
- img {
+ .header img {
   float: left;
   width: 100px;
   height: 100px;
   background: #555;
 }
 
-h1 {
+.header h1 {
   position: relative;
   top: 18px;
   left: 10px;
