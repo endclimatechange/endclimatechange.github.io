@@ -5,7 +5,7 @@ a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
-.header img {
+ img {
   float: left;
   width: 100px;
   height: 100px;
